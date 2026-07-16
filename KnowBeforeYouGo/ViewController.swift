@@ -13,9 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("hello world")
         print("im alive i think")
-        print("csdcdscd")
+        print("csdcdscdjwjncdwjdw jkcwdbjcwdjcdwjndwc")
+        print("4737437843783478437843")
     }
 
 
 }
-
